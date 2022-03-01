@@ -1,4 +1,3 @@
-import Link from "next/link"
 import Header from '../components/Header/Header';
 import Footer from '../components/Footer/Footer';
 import RecipeCard from "../components/RecipeCard/RecipeCard";

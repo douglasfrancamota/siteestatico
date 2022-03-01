@@ -32,3 +32,21 @@ body{
 .recipe-name{
     padding: 4px 12px;
 }
+
+.recipe-body-name{
+    text-align: center;
+}
+.recipe-body-picture{
+    max-width: 100%;
+}
+.recipe-body{
+    padding: 12px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+.recipe-body p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
