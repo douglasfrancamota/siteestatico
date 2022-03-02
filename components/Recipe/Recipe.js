@@ -1,14 +1,14 @@
-import Header from "../../../components/Header/Header"
-import Footer from "../../../components/Footer/Footer"
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 
-export default function Recipe(props){
+export default function Recebe(props){
     return(
         <div>
-             <Header title={props.name}/>
+             <Header title={props.name} />
             <main>
                 <article class="recipe-body">
-                    <h1 className="Recipe-body-name">{props.titulo1}</h1>
+                    <h1 className="Recipe-body-name">{props.name}</h1>
                         <img className="recipe-body-picture" alt={props.name} src= {props.picture} />    
                         <div>
                         <h2>Sobre o país <br/> </h2> 
