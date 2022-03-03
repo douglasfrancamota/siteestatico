@@ -5,7 +5,7 @@ export default function Irlanda(){
         <div>
             <Recebe 
                 name="Irlanda"
-                picture="https://www.asseguresuaviagem.com/images/Viagem-para-Irlanda.jpg"
+                picture="https://http2.mlstatic.com/D_NQ_NP_2X_902589-MLB28012935253_082018-F.webp"
                 texto="A Irlanda é um estado soberano da Europa que ocupa cerca de cinco sextos da ilha homônima. É uma república constitucional governada como uma democracia parlamentar, com um presidente eleito para servir como chefe de Estado. Considerada um país desenvolvido, a Irlanda tem o terceiro maior Índice de Desenvolvimento Humano (IDH) do mundo, além de ótimas classificações em índices que medem o grau de democracia e liberdades como a de imprensa, econômica e política. Sua capital é Dublin e a população do país é estimada em 4,8 milhões de habitantes."
                 subtitulo="1- Castelo de Dublin"
                 picture1="https://upstudy.com.br/wp-content/uploads/2021/03/castelo-de-dublin.jpg"

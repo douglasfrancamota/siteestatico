@@ -12,13 +12,13 @@ export default function Index(){
       <RecipeCard 
         name= "Irlanda"
         category= "Internacional"
-        picture= 'https://www.asseguresuaviagem.com/images/Viagem-para-Irlanda.jpg'
+        picture= 'https://http2.mlstatic.com/D_NQ_NP_2X_902589-MLB28012935253_082018-F.webp'
         link= "/Viagens/Internacionais/Irlanda"
       />
        <RecipeCard 
         name= "Estados Unidos"
         category= "Internacional"
-        picture= 'https://dicasnovayork.com.br/wp-content/uploads/2017/03/hospedagem_header-1000x700.jpg'
+        picture= 'https://www.melhoresdestinos.com.br/wp-content/uploads/2019/07/passagens-aereas-passagens-estados-unidos-capa2019-02.jpg'
         link= "/Viagens/Internacionais/Estados-Unidos"
       />  
        <RecipeCard 
