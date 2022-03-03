@@ -24,14 +24,14 @@ export default function Index(){
        <RecipeCard 
         name= "França"
         category= "Internacional"
-        picture= 'https://media.tacdn.com/media/attractions-splice-spp-674x446/06/74/aa/fc.jpg'
+        picture= 'https://www.dhresource.com/webp/m/0x0/f2/albu/g17/M01/46/08/rBVa4l-3c-GAdkrYAACR-gYBPVE537.jpg/90x150cm-france-flag-polyester-printed-european.jpg'
         link= "/Viagens/Internacionais/Franca"
       />
        <RecipeCard 
         name= "Portugal"
         category= "Internacional"
-        picture= 'https://i0.wp.com/www.eurodicas.com.br/wp-content/uploads/2018/12/regioes-de-portugal.jpg?w=1360&ssl=1'
-        link= "/Viagens/Internacionais/Franca"
+        picture= 'https://i0.wp.com/www.eurodicas.com.br/wp-content/uploads/2017/10/bandeira-de-portugal.jpg?w=1360&ssl=1'
+        link= "/Viagens/Internacionais/Portugal"
       />
                    
               
